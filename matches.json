@@ -1,1 +1,19 @@
-
+[
+  {
+    "descrição": "Eliminatórias Copa 2022",
+    "estadio":{
+        "nome": "Palestra italia",
+        "imagem": "TODO"
+    },
+    "casa": {
+        "noma": "Brasil",
+        "força": 5,
+        "imagem": "TODO"
+    },
+    "fora": {
+        "nome": "Argentina",
+        "força": 5,
+        "imagem": "TODO"
+    }
+  }
+]
