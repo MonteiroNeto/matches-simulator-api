@@ -3,12 +3,12 @@
     "descricao": "Eliminatórias Copa 2022",
     "estadio": {
         "nome": "Palestra italia",
-        "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/5881291177d6af418ec43c3c95e05056.jpg"
+        "imagem": "TODO"
     },
     "casa": {
         "nome": "Brasil",
         "forca": 5,
-        "imagem": "TODO"
+        "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/5881291177d6af418ec43c3c95e05056.jpg"
     },
     "fora": {
         "nome": "Argentina",
