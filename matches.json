@@ -16,5 +16,41 @@
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png"
       
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "estadio": {
+        "nome": "Macacanã",
+        "imagem": "TODO"
+    },
+    "casa": {
+        "nome": "Argentina",
+        "forca": 5,
+        "imagem": "https://argentine-info.com/wp-content/uploads/2015/10/flag-argentina-XL.jpg"
+    },
+    "fora": {
+        "nome": "Brasil",
+        "forca": 5,
+        "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/5881291177d6af418ec43c3c95e05056.jpg"
+      
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "estadio": {
+        "nome": "Ninho do Gavião",
+        "imagem": "TODO"
+    },
+    "casa": {
+        "nome": "Brasil",
+        "forca": 5,
+        "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/5881291177d6af418ec43c3c95e05056.jpg"
+    },
+    "fora": {
+        "nome": "Colombia",
+        "forca": 3,
+        "imagem": "https://i.pinimg.com/474x/61/eb/62/61eb62d2f8c8698189225b2b6412ba31--columbia-flag-flags.jpg"
+      
+    }
   }
 ]
